@@ -7,3 +7,4 @@ Cílem bylo umožnit knihovnám vkládat do národních autorit návrhy na nové
 Lokální záznam autority knihovna uloží do „Bandasky“, odkud je návrh po nezbytné validaci zapsán přímo do báze národních autorit. Tvorba autorit tak probíhá prakticky online.
 
 V roce 2022 došlo k nahrazení původního, technologicky zastaralého řešení, novým řešením.
+Dokumentaci k používání nové bandasky najdete ve [wiki](https://github.com/cosmotron-cz/bandaska-nk/wiki).
